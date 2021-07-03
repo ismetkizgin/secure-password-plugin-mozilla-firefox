@@ -1,0 +1,19 @@
+{
+  "name": "secure-password-plug-in-mozilla-firefox",
+  "version": "1.0.0",
+  "description": "Randomly used to create a safe password in some way.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismetkizgin/secure-password-plug-in-mozilla-firefox.git"
+  },
+  "author": "İsmet Kizgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismetkizgin/secure-password-plug-in-mozilla-firefox/issues"
+  },
+  "homepage": "https://github.com/ismetkizgin/secure-password-plug-in-mozilla-firefox#readme"
+}

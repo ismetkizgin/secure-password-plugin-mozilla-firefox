@@ -1,0 +1,20 @@
+{
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "Strong Random Password Generator",
+    "default_popup": "index.html",
+    "default_icon": {
+      "19": "icons/default19.png",
+      "38": "icons/default38.png"
+    }
+  },
+  "description": "Strong Random Password Generator",
+  "icons": {
+    "48": "icons/cookie.png",
+    "96": "icons/cookie@2x.png"
+  },
+  "homepage_url": "https://github.com/ismetkizgin/secure-password-plug-in-mozilla-firefox#readme",
+  "manifest_version": 2,
+  "name": "Strong Random Password Generator",
+  "version": "1.0"
+}
